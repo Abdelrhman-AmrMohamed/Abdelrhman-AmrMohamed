@@ -17,19 +17,19 @@ Computer Science graduate from Ain Shams University (2024), passionate about Bac
 - ASP.NET Core MVC | Web API | JWT
 - SQL Server | T-SQL
 
-**Architecture & Patterns:**
-- OOP | Clean Architecture | CQRS
-- Design Patterns (Repository, Unit of Work, Factory, Singleton)
-- Mediator Pattern
+**Architecture & Concepts:**
+- OOP | RESTful APIs | SOLID Principle |  Algorithms | Data Structure | Design Pattern |CQRS | 
+Mediator Pattern | Auto Mapper |Clean Architecture 
 
 **Data Structures:**
-- Array | Linked List | Stack | Queue
-- Tree | Graph | Hash Table
+- Array | List | Linked List | Stack | Queue
 
 **Algorithms:**
-- Sorting (Bubble, Merge, Quick)
+- Sorting (Insertion,Selection,Bubble, Merge, Quick)
 - Searching (Linear, Binary)
-- Recursion | Dynamic Programming
+
+**Version Control System:**
+- Git & GitHub
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-amr-87525737b)
